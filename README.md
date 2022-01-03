@@ -1,5 +1,6 @@
-👋 Hi, I’m @hk9713
-👀 I’m interested in "ios / android developer"
+👋 Hi, I’m @hk9713<br>
+👀 I’m interested in "App"<br>
+😎 I want to be a nice programmer!
 
 
 <!---
